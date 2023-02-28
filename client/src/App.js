@@ -4,8 +4,6 @@ function App() {
   return (
 
   <div> 
-    
-    <h1> Recognition </h1> 
 
     <Landing /> 
 
